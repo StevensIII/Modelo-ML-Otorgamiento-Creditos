@@ -12,7 +12,7 @@ from Vistas.InicioSesion import ventana  # Importar la ventana de inicio de sesi
 
 def validar_licencia(clave_ingresada):
     """
-    Función para validar la clave de licencia.
+    Función para validar la clave de lic.
     """
     return clave_ingresada == LICENCIA_VALIDA
 

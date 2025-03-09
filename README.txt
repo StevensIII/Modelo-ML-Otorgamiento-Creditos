@@ -1,6 +1,6 @@
-Instrucciones para usar la aplicación:
+Instrucciones para correr la aplicación:
 
-1. Ejecuta el archivo "main.exe".
+1. Ejecuta el archivo "main.py".
 
 2. Configura la base de datos:
    - Abre SQL Server Management Studio (SSMS).
